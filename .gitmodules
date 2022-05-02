@@ -1,3 +1,6 @@
 [submodule "gestor-de-clientes"]
 	path = gestor-de-clientes
 	url = https://gitlab.com/tareas-arquitectura-de-software-curso/microservicios/gestor-de-clientes.git
+[submodule "notificador"]
+	path = notificador
+	url = https://gitlab.com/tareas-arquitectura-de-software-curso/microservicios/notificador.git
