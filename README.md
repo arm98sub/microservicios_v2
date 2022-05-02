@@ -32,7 +32,11 @@ Este repositorio contiene los siguientes directorios y archivos:
 
 Descarga el código del repositorio utilizando el siguiente comando:
 
-`git clone https://gitlab.com/tareas-arquitectura-de-software-curso/microservicios.git`
+`git clone https://gitlab.com/tareas-arquitectura-de-software-curso/microservicios/docker-microservicios.git`
+
+Ingresa a la carpeta del proyecto:
+
+`cd docker-microservicios`
 
 Descarga el código fuente de los microservicios y componentes del sistema:
 
