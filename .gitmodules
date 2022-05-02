@@ -7,3 +7,6 @@
 [submodule "reporteador"]
 	path = reporteador
 	url = https://gitlab.com/tareas-arquitectura-de-software-curso/microservicios/reporteador.git
+[submodule "pagos"]
+	path = pagos
+	url = https://gitlab.com/tareas-arquitectura-de-software-curso/microservicios/pagos.git
