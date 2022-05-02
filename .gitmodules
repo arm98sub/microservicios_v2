@@ -13,3 +13,6 @@
 [submodule "simulador"]
 	path = simulador
 	url = https://gitlab.com/tareas-arquitectura-de-software-curso/microservicios/simulador.git
+[submodule "cliente"]
+	path = cliente
+	url = https://gitlab.com/tareas-arquitectura-de-software-curso/microservicios/cliente.git
