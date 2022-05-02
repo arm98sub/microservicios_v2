@@ -48,13 +48,13 @@ services:
     networks:
       microservices:
     volumes:
-      - ./volume/simulador:/go/bin
+      - ./volume/simulador:/data
   simulador:
     build: ./simulador
     networks:
       microservices:
     volumes:
-      - ./volume/simulador:/job
+      - ./volume/simulador:/data
   tyk-gateway:
     image: tykio/tyk-gateway:v3.2.1
     ports:
