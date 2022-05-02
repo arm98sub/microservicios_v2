@@ -4,3 +4,6 @@
 [submodule "notificador"]
 	path = notificador
 	url = https://gitlab.com/tareas-arquitectura-de-software-curso/microservicios/notificador.git
+[submodule "reporteador"]
+	path = reporteador
+	url = https://gitlab.com/tareas-arquitectura-de-software-curso/microservicios/reporteador.git
